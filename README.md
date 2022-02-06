@@ -1,2 +1,2 @@
 ## Curso de React
-##Introducción a JavaScript Moderno
+Introducción a JavaScript Moderno
